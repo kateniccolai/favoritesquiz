@@ -1,1 +1,1 @@
-# favoritesquiz
+# favoritesquiz.github.io
