@@ -1,2 +1,2 @@
-# favoritesquiz.kateniccolai.io
+# favoritesquiz.github.io
 
